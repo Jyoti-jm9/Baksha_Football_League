@@ -1,104 +1,98 @@
 [
   {
     "group": "A",
-    "date": "06 Jun",
+    "date": "25 Jun",
     "home": "Bagdah",
-    "away": "Garapota",
+    "away": "Baranashipur",
     "homeScore": null,
     "awayScore": null
   },
   {
+    "group": "B",
+    "date": "27 Jun",
+    "home": "Helencha",
+    "away": "Kashipur",
+    "homeScore": 0,
+    "awayScore": 2
+  },
+  {
     "group": "A",
-    "date": "08 Jun",
+    "date": "28 Jun",
     "home": "Baranashipur",
     "away": "Garapota",
     "homeScore": 0,
     "awayScore": 2
   },
   {
+    "group": "B",
+    "date": "29 Jun",
+    "home": "Kashipur",
+    "away": "Baksa",
+    "homeScore": 3,
+    "awayScore": 0
+  },
+  {
     "group": "A",
-    "date": "10 Jun",
+    "date": "30 Jun",
     "home": "Bagdah",
-    "away": "Baranashipur",
+    "away": "Garapota",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "group": "B",
+    "date": "01 Jul",
+    "home": "Baksa",
+    "away": "Helencha",
     "homeScore": null,
     "awayScore": null
   },
   {
     "group": "A",
-    "date": "13 Jun",
-    "home": "Garapota",
-    "away": "Bagdah",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "group": "A",
-    "date": "15 Jun",
-    "home": "Garapota",
-    "away": "Baranashipur",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "group": "A",
-    "date": "17 Jun",
+    "date": "02 Jul",
     "home": "Baranashipur",
     "away": "Bagdah",
     "homeScore": null,
     "awayScore": null
   },
- 
   {
     "group": "B",
-    "date": "07 Jun",
+    "date": "03 Jul",
     "home": "Kashipur",
     "away": "Helencha",
-    "homeScore": 2,
-    "awayScore": 0
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "group": "A",
+    "date": "05 Jul",
+    "home": "Garapota",
+    "away": "Baranashipur",
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "group": "B",
-    "date": "09 Jun",
+    "date": "06 Jul",
     "home": "Baksa",
     "away": "Kashipur",
-    "homeScore": 0,
-    "awayScore": 3
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "group": "A",
+    "date": "08 Jul",
+    "home": "Bagdah",
+    "away": "Garapota",
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "group": "B",
-    "date": "11 Jun",
+    "date": "09 Jul",
     "home": "Helencha",
     "away": "Baksa",
     "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "group": "B",
-    "date": "14 Jun",
-    "home": "Helencha",
-    "away": "Kashipur",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "group": "B",
-    "date": "16 Jun",
-    "home": "Kashipur",
-    "away": "Baksa",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "group": "B",
-    "date": "18 Jun",
-    "home": "Baksa",
-    "away": "Helencha",
-    "homeScore": null,
-    "awayScore": null
-  }
-]
-
-    
     "awayScore": null
   }
 ]
