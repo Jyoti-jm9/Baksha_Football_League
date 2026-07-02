@@ -44,8 +44,8 @@
     "date": "01 Jul",
     "home": "Baksa",
     "away": "Helencha",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "group": "A",
